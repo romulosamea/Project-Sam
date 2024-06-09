@@ -1,0 +1,144 @@
+/* for body section */
+body {
+    background-color: rgb(10, 35, 43);
+    padding-right: 1cm;
+    align-items: absolute;
+    color: solid rgb(187, 63, 63);
+}
+
+/* for form and fieldset section */
+ .fieldset {
+    align-items: absolute;
+    width: 2cm;
+    height: 2cm;
+    padding: 2cm;
+    color: brown;
+    background-color: gray;
+    border: 2cm;
+    margin-left: 1px;
+ }
+
+/* for paragraph 2 section */
+.p2{
+    color: rgb(108, 109, 109);
+}
+
+/* for head 1 section */
+ h1 {
+    text-align: center;
+    color: rgb(135, 141, 135);
+}
+
+/* for head 2 section */
+h2 {
+   color: rgb(102, 102, 105);
+
+}
+
+/* for head 3 section */
+.h3{
+   color: solid rgb(255, 255, 255);
+}
+
+
+/* for head 5 section */
+h5{
+   text-align: right;
+   
+}
+
+/* for children section */
+div{
+   color: rgb(188, 83, 18);
+   padding: 9px;
+}
+
+ /* for images */
+input {
+   background-color: rgb(76, 80, 77);
+   text-shadow: 1cm;
+   align-items: absolute;
+   padding: right 1cm;
+   border-top: 1cm;
+   border-color: rgb(60, 16, 8);
+   border-width: 1m;
+   height: 1cm;
+   margin-left: 1px;
+   text-align: center;
+   color: rgb(56, 247, 72);
+}
+
+/* for label section */
+label{
+   color: rgb(150, 160, 7);
+   padding: 9px;
+}
+
+/* for horizontal line */
+hr {
+   color: rgb(187, 183, 183);
+   padding-right: 1cm;
+
+}
+
+/* for table */
+table {
+   background-color: rgb(4, 4, 4);
+   color: rgb(82, 78, 77);
+   align-items: center;
+   padding-right: 1.0cm;
+   border-width: 1rem;
+}
+
+/* for form */
+form{
+   background-color:rgb(0, 0, 0); 
+   padding-right: 1cm;
+}
+
+/* for form*/
+td {
+   color: rgb(229, 221, 221);
+   text-align: center;
+}
+
+/* submit section */
+.submit{
+   width: 3cm;
+   height: 1cm;
+   background-color: rgb(12, 92, 138);
+   color: rgb(192, 202, 212);
+   align-items: right;
+   border-radius: 1cm;
+}
+
+/* strong section */
+strong{
+   color: aliceblue;
+   text-align: center;
+}
+
+/* for list section */
+li{
+   color: rgb(21, 103, 103);
+   
+}
+
+/* for unordered list section */
+ul{
+   color: rgb(158, 166, 167);
+}
+
+ul:hover{
+   color: rgb(91, 248, 248);
+}
+
+style{
+   color: aliceblue;
+}
+
+/*link section */
+a {
+   color: rgb(112, 216, 224);
+   text-align: right; 
+}
